@@ -1,11 +1,11 @@
-# Group "GROUP NAME"
+# Group WebTeam
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
+-  [s346297 PAOLONI STEFANO](https://github.com/stefanopaolonii)
+-  [s342269 SANTURBANO DAVIDE](https://github.com/Ser4ld)
+-  [s342709 MARCONI MICHELANGELO](https://github.com/MikiMarconi)
 
-# Exercise "NAME OF EXERCISE"
+# Exercise MEME GAME
 
 # Lab Journal
 
